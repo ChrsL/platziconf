@@ -1,0 +1,3 @@
+Los slides de esta conferencia se encuentran en:
+
+http://slides.com/yohangraterol/decide-el-stack-tecnologico-de-tu-web#/
